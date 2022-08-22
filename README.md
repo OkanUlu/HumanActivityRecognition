@@ -1,18 +1,15 @@
-﻿**Human Activity Recognition Using Machine Learning And Data Visualization**
+## Human Activity Recognition Using Machine Learning And Data Visualization
 
-## Tools Required
+### Tools Required
 
-	Python 3 is used during development and following libraries are required to run the code provided in the notebook:
-	
+Python 3 is used during development and following libraries are required to run the code provided in the notebook:
 
- - Tensorflow
- - Numpy
- - Pandas
- - Scipy
- - Matplotlib
+\- Tensorflow  
+\- Numpy  
+\- Pandas  
+\- Scipy  
+\- Matplotlib
 
-## Dataset
+### Dataset
 
-	Human Activity Recognition Using Smartphones Data Set (from UCI) used for model training, can be downloaded from the following [link](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
-
-
+Human Activity Recognition Using Smartphones Data Set (from UCI) used for model training, can be downloaded from the following [link](https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones)
